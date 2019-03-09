@@ -14,7 +14,7 @@ AdminUi::tr_radiogroup( 'Search Engine', array(
 			'name' => 'Self-hosted ElasticSearch server'
 		)
 	),
-	'description' => 'Fulltext search engine to use. You may configure and set up own self-hosted service or use managed onw provided by Wow Search.'
+	'description' => 'Fulltext search engine to use. You may configure and set up own self-hosted service or use managed one provided by Wow Search.'
 ) );
 
 self::tr_textbox_api_key( array(
